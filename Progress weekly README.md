@@ -1,6 +1,7 @@
 # MSc-Advanced-Project progress weekly
 # week1 (22.6.2022)
 I proposed two themes and plans to discuss with Bea, and finally we decided on a project that was more suitable for me, that is, language violence.
+
 # week2 (13.10.2022)
 I discussed the progress of my project with Bea.this a project to develop empathy and how users develop skills for combating bullying. We discussed how to change the user and the setting, and to what extent the user should
  be able to choose their own character,  We discussed the need for the game to reflect a sort of ‘phycological physics engine’ as in to be effective the bullying simulated in the game should be based on research and the responses the user is being encouraged to learn is also based on research on how to respond to this sort of abuse Further development of the game, Screenshots or graphics from the game Further evidence of the research underpinning the project.
@@ -24,5 +25,6 @@ I've written most of the code this week and started working on my essay, and Bea
 
 # week6 (10.11.2022)
 I basically finished my project. I sent a video of the project to Bea. He thought I should add some functions to the project. For example, the purpose of this game is to make people aware of the dangers of language violence. So, Bea thinks, Should add some kind of support at the end of the game, for children who are bullied, I
-I think this is correct and necessary, so I added this feature to my game, if the player needs help, he can click the button in the game to directly connect to the assistance website for help, I also added some assistance calls to provide People who need help.
+I think this is correct and necessary, so I added this feature to my game, if the player needs help, he can click the button in the game to directly connect to the assistance website for help, I also added some assistance calls to provide People who need help.We also discussed my thesis outline and Bea made some comments for my thesis
 # week7 (17.11.2022)
+I explained to Bea that I want to try the project in VR. Bea thinks that I should optimize my project, finish my thesis, and then consider converting the project to VR. i will do that.
