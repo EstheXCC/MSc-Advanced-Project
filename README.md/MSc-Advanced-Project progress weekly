@@ -1,0 +1,30 @@
+# MSc-Advanced-Project progress weekly
+# week1 (22.6.2022)
+I proposed two themes and plans to discuss with Bea, and finally we decided on a project that was more suitable for me, that is, language violence.
+# week2 (13.10.2022)
+I discussed the progress of my project with Bea.this a project to develop empathy and how users develop skills for combating bullying. We discussed how to change the user and the setting, and to what extent the user should
+ be able to choose their own character,  We discussed the need for the game to reflect a sort of ‘phycological physics engine’ as in to be effective the bullying simulated in the game should be based on research and the responses the user is being encouraged to learn is also based on research on how to respond to this sort of abuse Further development of the game, Screenshots or graphics from the game Further evidence of the research underpinning the project.
+ [Meeting 1.pdf](https://github.com/EstheXCC/MSc-Advanced-Project/files/10073731/Meeting.1.pdf)
+
+# week3 (20.10.2022)
+Bea and I nailed down the game settings in my project. In order to avoid conflicts with the real cultural background, we decided to set the background of the game as a virtual world.
+[meeting 2.pdf](https://github.com/EstheXCC/MSc-Advanced-Project/files/10073786/meeting.2.pdf)
+
+# week4 (27.10.2022)
+I updated my project progress for Bea. I finalized the scene model and character model. Complete the basic code of some projects, such as completing the writing of the code for the character to control the forward and backward through W, A, S, D, click the space bar to jump
+Completed the writing of the code for the increase/decrease of the character's energy value
+The camera reads the Euler angle steering of the mouse's X-axis and Y-axis, which is bound to the character's head so that the character can move the perspective
+Completed part of the enemy attack code, including playing the enemy model animation; the enemy finds and locks the player, generates bullets; the enemy attacks the player
+Bea and I discussed my plans for the next week, and we planned to have 80% of the code done by next week.
+[Advanced Project current achievements 3.pdf](https://github.com/EstheXCC/MSc-Advanced-Project/files/10073791/Advanced.Project.current.achievements.3.pdf)
+
+# week5 (03.11.2022)
+我在本周已经完成了大部分代码，并开始准备写我的Essay，Bea为我的项目和论文提出了一些建议，我认为非常有用。
+[Advanced Project Current achievement 4.pdf](https://github.com/EstheXCC/MSc-Advanced-Project/files/10073803/Advanced.Project.Current.achievement.4.pdf)
+
+# week6 (10.11.2022)
+我基本上完成了我的项目，我发了项目运行的视频给Bea, 他认为我应该为项目添加一些功能，比如这款游戏的目的是让人们意识到语言暴力的危害，所以，Bea认为，应该在游戏最后添加一些援助方式，为受到欺凌的儿童，我
+认为这是正确的且有必要的，所以我为我的游戏添加了这个功能，玩家如果需要帮助，他可以在游戏中点击按钮直接连接到援助网站获取帮助，我还添加了一些援助电话提供给需要帮助的人。
+I basically finished my project. I sent a video of the project to Bea. He thought I should add some functions to the project. For example, the purpose of this game is to make people aware of the dangers of language violence. So, Bea thinks, Should add some kind of support at the end of the game, for children who are bullied, I
+I think this is correct and necessary, so I added this feature to my game, if the player needs help, he can click the button in the game to directly connect to the assistance website for help, I also added some assistance calls to provide People who need help.
+# week7 (17.11.2022)
